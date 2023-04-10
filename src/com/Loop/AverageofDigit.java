@@ -24,10 +24,6 @@ public class AverageofDigit {
 		System.out.println("Average of digits are:"+avg);
 		
 		
-		
-
-	
-
 	}
 
 }
